@@ -1,36 +1,46 @@
-### The Unlicense
+Mozilla Public License (MPL) 2.0
+Mozilla Public License (MPL) 2.0 ir atvērtā koda licence, ko izstrādājusi Mozilla Foundation. Tā ir izveidota, lai nodrošinātu līdzsvaru starp brīvību izmantot, modificēt un izplatīt programmatūru, vienlaikus saglabājot noteiktas tiesības oriģinālā koda autoram.
+Galvenās īpašības:
 
-The Unlicense ir atvērtā koda licence, kas veidota, lai vienkāršotu programmatūras izmantošanas nosacījumus, piešķirot maksimālu brīvību lietotājam. Tā nodrošina, ka programmatūra ir publiski pieejama un nav pakļauta autortiesības ierobežojumiem.
+Faila līmeņa "Copyleft": Ja tiek modificēti MPL pārklāti faili, tiem jāpaliek pieejamiem zem MPL licences, taču citus failus var izplatīt ar citām licencēm.
 
-#### Galvenās īpašības:
-- **Bez ierobežojumiem**: Ikviens var lietot, modificēt un izplatīt programmatūra jebkādā veidā, bez jebkādiem ierobežojumiem.
-- **Nav prasības par "Copyleft"**: Lietotājam nav pienākuma publicēt atvasinājumus ar to pašu licenci.
-- **Vienkāršība**: Licences teksts ir īss un viegli saprotams.
+Elastība: MPL ļauj izmantot licencētu kodu gan atvērtā, gan slēgtā koda projektos, ja vien tiek ievēroti licences noteikumi.
 
-#### Priekšrocības:
-- Maksimāla elastība izstrādātājiem un lietotājiem.
-- Nav juridisku pienākumu vai prasību attiecībā uz programmatūras izmantošanu vai izplatīšanu.
+Pārredzamība: Lietotājiem jāsniedz pieeja modificētajam pirmkodam, ja tas tiek izplatīts.
 
-#### Trūkumi:
-- Juridiskā aizsardzība ir ierobežota vai nepastāv.
-- Mazāk piemērota situācijām, kur autortiesību saglabāšana ir svarīga.
+Priekšrocības:
 
----
+Nodrošina juridisku aizsardzību oriģinālā koda autoriem.
 
-### Salīdzinājums ar Apache License 2.0 un MIT License
+Līdzsvaro atvērtā koda sadarbību un komerciālo izmantošanu.
 
-#### Apache License 2.0
+Mazāk ierobežojoša nekā GNU GPL, bet saglabā zināmu "Copyleft" prasību.
+
+Trūkumi:
+
+Sarežģītāka nekā MIT vai The Unlicense, kas var radīt juridiskas neskaidrības.
+
+Nav tik stingra attiecībā uz atvērtā koda aizsardzību kā GPL.
+
+Salīdzinājums ar Apache License 2.0 un MIT License
+
+Apache License 2.0
+
 Apache License 2.0 ir elastīga licence, kas ļauj gan atvērtā koda, gan slēgtā koda lietojumu. Tā nodrošina spēcīgu juridisko aizsardzību pret patentu prasībām un neprasa, lai atvasinātie darbi tiktu izplatīti ar to pašu licenci.
 
-**Atšķirības:**
-- Apache nodrošina juridisku aizsardzību, kamēr The Unlicense koncentrējas uz maksimālu brīvību.
-- Apache licence ir sarežģītāka un paredzēta, lai risinātu patentu jautājumus.
+Atšķirības:
 
-#### MIT License
+Apache atšķirībā no MPL neprasa modificētā koda publisku pieejamību.
+
+MPL ir fokusēta uz faila līmeņa "Copyleft", kamēr Apache ļauj lielāku brīvību integrācijai slēgtā koda projektos.
+
+MIT License
+
 MIT License ir viena no visvienkāršākajām un elastīgākajām licencēm. Tā atļauj praktiski jebko, ja vien tā tiek izmantota ar licences paziņojumu.
 
-**Atšķirības:**
-- MIT pieprasa licences paziņojuma iekļaušanu, kamēr The Unlicense to neveic.
-- The Unlicense pilnībā atsakās no jebkādām prasībām un nodrošina maksimālu brīvību.
+Atšķirības:
 
+MIT nesatur "Copyleft" elementus, kamēr MPL pieprasa to failu pirmkoda pieejamību, kas tiek modificēti.
+
+MPL ir juridiski precīzāka, bet sarežģītāka nekā MIT.
 
