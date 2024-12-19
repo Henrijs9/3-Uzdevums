@@ -1,6 +1,6 @@
 Mozilla Public License (MPL) 2.0
 Mozilla Public License (MPL) 2.0 ir atvērtā koda licence, ko izstrādājusi Mozilla Foundation. Tā ir izveidota, lai nodrošinātu līdzsvaru starp brīvību izmantot, modificēt un izplatīt programmatūru, vienlaikus saglabājot noteiktas tiesības oriģinālā koda autoram.
-Īpašības:
+ - Īpašības:
 1. Ja tiek modificēti MPL pārklāti faili, tiem jāpaliek pieejamiem zem MPL licences, taču citus failus var izplatīt ar citām licencēm.
 2. MPL ļauj izmantot licencētu kodu gan atvērtā, gan slēgtā koda projektos, ja vien tiek ievēroti licences noteikumi.
 3. Lietotājiem jāsniedz pieeja kodam, ja tas tiek izplatīts.
@@ -8,16 +8,16 @@ Priekšrocības:
 1. Nodrošina juridisku aizsardzību oriģinālā koda autoriem.
 2. Līdzsvaro atvērtā koda sadarbību un komerciālo izmantošanu.
 3. Mazāk ierobežojoša nekā GNU GPL
-Trūkumi:
+ - Trūkumi:
 1. Sarežģītāks nekā MIT vai The Unlicense, kas var radīt juridiskas neskaidrības.
 2. Nav tik stingra attiecība uz atvērtā koda aizsardzību kā GPL.
 Salīdzinājums ar Apache License 2.0 un MIT License:
-Apache License 2.0
+ - Apache License 2.0
 Apache License 2.0 ir elastīga licence, kas ļauj gan atvērtā koda, gan slēgtā koda lietojumu. Tā nodrošina spēcīgu juridisko aizsardzību pret lietotāju prasībām un neprasa, lai darbi tiktu izplatīti ar to pašu licenci.
 Atšķirības:
 1. Apache atšķirībā no MPL neprasa modificētā koda publisku pieejamību.
 2. MPL ir fokusēta uz "Copyleft", kamēr Apache ļauj lielāku brīvību integrācijai slēgtā koda projektos.
-MIT License
+ - MIT License
 MIT License ir viena no visvienkāršākajām un elastīgākajām licencēm. Tā atļauj praktiski jebko, ja vien tā tiek izmantota ar licences paziņojumu.
 Atšķirības:
 1. MIT nesatur "Copyleft" elementus, kamēr MPL pieprasa to failu pieejamību, kas tiek modificēti.
